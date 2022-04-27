@@ -10,8 +10,8 @@ public class MyAuthentication extends Authenticator {
 	private String pw;
 	
 	public MyAuthentication() {
-		id = "******";
-		pw = "************";
+		id = "***********";
+		pw = "*************";
 		pa = new PasswordAuthentication(id, pw);
 	}
 	
